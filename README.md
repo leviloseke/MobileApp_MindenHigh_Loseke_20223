@@ -1,2 +1,2 @@
-# MobileApp_MindenHigh_Loseke_20223
+# MobileApp_MindenHigh_Loseke_2023
 Project for FBLA
